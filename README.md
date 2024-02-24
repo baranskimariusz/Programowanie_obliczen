@@ -1,1 +1,1 @@
-# projekt_zaliczeniowy_PO
+# Projekt zaliczeniowy - Programowanie Obliczeń
